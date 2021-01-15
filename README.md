@@ -1,3 +1,6 @@
 # Corona-Virus-Tracker-App
 
-Data from https://github.com/CSSEGISandData
+Basic Daily Reports of Corona Virus Tracking App using 
+Spring Boot Thyme Leaf Bootstrap
+
+Pulling Data from https://github.com/CSSEGISandData
